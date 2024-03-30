@@ -1,0 +1,25 @@
+@charset "UTF-8";
+
+body{
+    background-image: linear-gradient(to right, #631D32,#8C4157);
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+main{
+    background-color: white;
+    width: 650px;
+    margin: auto;
+    padding: 5px;
+    border: #421321;
+}
+
+h1{
+    font: italic bolder 3em Arial;
+    text-align: center;
+    color: #421321;
+}
+
+p{
+    text-align: justify;
+    font-size: 1em;
+}
